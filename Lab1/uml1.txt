@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Author" as P {
+ Pen
+Write (Information, Morning) : Article
+}
+hide circle
+@enduml
