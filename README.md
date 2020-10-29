@@ -25,9 +25,11 @@
 ![none](https://github.com/Kojimboy/ZurabishviliNikolai.github.io/blob/master/Lab2/01_A0.png)
 
 Средний уровень: 
+
 ![none](https://github.com/Kojimboy/ZurabishviliNikolai.github.io/blob/master/Lab2/02_A0.png)
 
 Блок "Управлять":
+
 ![none](https://github.com/Kojimboy/ZurabishviliNikolai.github.io/blob/master/Lab2/03_A1.png)
 
 ## Usecase diagram
