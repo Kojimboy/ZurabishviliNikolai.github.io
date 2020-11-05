@@ -1,0 +1,12 @@
+@startuml
+actor "Издатель" as owner
+boundary "Приложение" as app
+entity "Данные" as data
+actor "Редактор" as trainee
+owner -> app : Заявка
+app -> data : Текст 
+data -> app : Ответ
+app -> trainee : Инструкция
+trainee -> app : Подтверждение
+app -> owner : Текст принят
+@enduml
