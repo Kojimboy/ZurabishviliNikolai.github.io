@@ -39,8 +39,10 @@
 # Лабораторная работа 3
 ## Диаграмма последовательности
 [Текст](https://github.com/Kojimboy/ZurabishviliNikolai.github.io/blob/master/Lab3/Diagramm) и [Рисунок](https://github.com/Kojimboy/ZurabishviliNikolai.github.io/blob/master/Lab3/Diagramm.png)
+
 ![none](https://github.com/Kojimboy/ZurabishviliNikolai.github.io/blob/master/Lab3/Diagramm.png)
 
 ## ER диаграмма
 [Текст](https://github.com/Kojimboy/ZurabishviliNikolai.github.io/blob/master/Lab3/Er%20diagramm) и [Рисунок](https://github.com/Kojimboy/ZurabishviliNikolai.github.io/blob/master/Lab3/er%20diagramm.png)
+
 ![none](https://github.com/Kojimboy/ZurabishviliNikolai.github.io/blob/master/Lab3/er%20diagramm.png)
