@@ -1,0 +1,15 @@
+@startuml
+left to right direction
+actor "Тестировщик"
+actor "Эксперт"
+
+
+usecase case2 as "Проверка удобства использование приложения и выпуск бета версии "
+
+usecase case3 as "Обеспечение качества"
+
+
+Эксперт --> case3
+
+Тестировщик --> case2
+@enduml
