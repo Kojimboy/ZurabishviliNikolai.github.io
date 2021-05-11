@@ -2,14 +2,18 @@
 left to right direction
 actor "Тестировщик"
 actor "Эксперт"
+actor "Прототип"
 
 
 usecase case1 as "Проверка удобства использования приложения и выпуск бета версии "
 
 usecase case2 as "Обеспечение качества"
 
+usecase case3 as "Представление предварительной версии"
 
 Тестировщик --> case1
 
 Эксперт --> case2
+
+Прототип --> case3
 @enduml
