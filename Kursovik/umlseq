@@ -1,0 +1,22 @@
+@startuml
+skinparam monochrome true
+
+actor Программист as prog
+participant "CУБД" as system
+
+
+database "База данных приложения" as db
+
+prog-> system : Запуск Субд
+activate system
+
+
+activate db
+system -> db : Ввод внешних данных
+system -> db : Ввод необходимых параметров
+db -> system : Сформированные таблицы
+deactivate db 
+
+system -> prog: Получение консолидированных данных
+deactivate system
+@enduml
